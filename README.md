@@ -1,4 +1,4 @@
-#📚 Landing Page - Focus Learn
+📚 Landing Page - Focus Learn
 ---
 
 
@@ -6,6 +6,7 @@ Uma landing page responsiva com tema de sistema de ensino, construída com HTML,
 
 <br>
 
-##🌐 Visualize o projeto:
+🌐 Visualize o projeto:
+---
 [Ver Projeto Online]((https://joaogallindo.github.io/Focus-Learn/))
 
