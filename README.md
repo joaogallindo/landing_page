@@ -8,5 +8,6 @@ Uma landing page responsiva com tema de sistema de ensino, construída com HTML,
 
 🌐 Visualize o projeto:
 ---
-[Ver Projeto Online]((https://joaogallindo.github.io/Focus-Learn/))
+👉 [Clique aqui para acessar](https://joaogallindo.github.io/Focus-Learn/)
+)
 
