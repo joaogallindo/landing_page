@@ -20,10 +20,10 @@
 **Landing Page**
 Tela inicial de apresentação do sistema, destacando propósito, benefícios e acesso às principais áreas da plataforma.
 
-**Tela de Cadastro**
+**Telas de Cadastro**
 Permite que novos usuários criem suas contas, inserindo dados essenciais para acesso ao sistema.
 
-**Tela de Login**
+**Telas de Login**
 Área para autenticação de usuários registrados, garantindo acesso seguro à plataforma.
 
 **Tela Home - Alunos**
