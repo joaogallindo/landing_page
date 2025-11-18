@@ -32,6 +32,19 @@ Exibe todos os cursos disponíveis, com detalhes, descrição e opções de aces
  
 <br>
 
+👥 Autores
+--- 
+Este projeto foi desenvolvido com a colaboração de:
+
+Allan Gonçalves de Souza - [LinkedIn](https://www.linkedin.com/in/allan-gsouza/)
+Daniele Nunes Reis  
+Fernanda Baborsa Fires Melo - [GitHub](https://github.com/fairesf)
+Gustavo Barreto Pachecho - [LinkedIn(https://www.linkedin.com/in/gustavo-barreto-239625352/) 
+João Gabriel Galindo - [LinkedI](https://www.linkedin.com/in/joao-gabriel-galindo/)
+Pedro Henrique de Amorim Lassance - [LinkedIn](ttps://www.linkedin.com/in/pedro-lassance-50a497338/)
+
+
+<br>
 🌐 Visualize o projeto:
 ---
 👉 [Clique aqui para acessar](https://joaogallindo.github.io/Focus-Learn/)
