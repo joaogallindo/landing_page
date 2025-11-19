@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com a colaboração de:
 
 - Allan Gonçalves de Souza - [LinkedIn](https://www.linkedin.com/in/allan-gsouza/)
 
-- Daniele Nunes Reis  
+- Daniele Nunes Reis - [Github](https://github.com/daninuunes)  
 
 - Fernanda Baborsa Fires Melo - [GitHub](https://github.com/fairesf)
 
